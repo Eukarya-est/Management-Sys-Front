@@ -1,6 +1,6 @@
 <h1>A simple student system frontend with React</h1>
 
-2024-07-11 ~ 2024-07-12
+Jul.2024
 
 <h2>Reference</h2>
   
